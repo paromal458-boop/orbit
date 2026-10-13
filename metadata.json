@@ -1,0 +1,6 @@
+{
+  "name": "ORBITCATCH // PROTOTYPER",
+  "description": "Active Stabilization & Multi-Target Orbital Net Capture Deck and flight dynamics testbed",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
